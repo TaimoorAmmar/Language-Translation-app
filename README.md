@@ -9,8 +9,8 @@ HTML, CSS, JavaScript
 <p>API for translation:
 https://mymemory.translated.net/doc/spec.php</p>
 
-<p>Web Speech API SpeechSynthesis interface is used:
-https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis</p>
+<p>Web Speech API SpeechSynthesis interface is used:</p>
+<p>https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis</p>
 
 <h2> Screenshots </h2>
 
